@@ -1,0 +1,6 @@
+{
+    "dropout": 0.5,
+    "num_heads": 2,
+    "num_layers": 2,
+    "pe_dim": 4
+}

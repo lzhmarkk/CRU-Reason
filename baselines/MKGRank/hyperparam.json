@@ -1,0 +1,12 @@
+{
+    "n_triplets_per_sample": 64,
+    "n_description_sentences": 2,
+    "n_shots": 0,
+    "candidate_fn": {
+        "mortality": null,
+        "readmission": null,
+        "lenofstay": "dl",
+        "drugrec": "kg",
+        "diagnosis": "kg"
+    }
+}

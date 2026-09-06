@@ -1,0 +1,13 @@
+{
+    "max_paths_per_group": 20,
+    "topK_reasoning_paths": 3,
+    "max_hops": 1,
+    "n_shots": 0,
+    "candidate_fn": {
+        "mortality": null,
+        "readmission": null,
+        "lenofstay": "dl",
+        "drugrec": "kg",
+        "diagnosis": "kg"
+    }
+}

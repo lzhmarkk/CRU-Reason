@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+__pycache__
+.idea
+.DS_Store
+.stignore
+.vscode
+*.key
+saves/
+output/
+PrimeKG/
+cache
+*.sh

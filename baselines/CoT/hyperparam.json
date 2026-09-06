@@ -1,0 +1,10 @@
+{
+    "n_shots": 2,
+    "candidate_fn": {
+        "mortality": null,
+        "readmission": null,
+        "lenofstay": "dl",
+        "drugrec": "all",
+        "diagnosis": "kg"
+    }
+}
